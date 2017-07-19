@@ -1,0 +1,40 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B5A01CC7-F94B-F611-A0A7-6E139DDA0F13}") = "Tic Tac Toe but 3D", "Assembly-CSharp.csproj", "{A33F75F7-8250-B935-49C8-2E707F93BFBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A33F75F7-8250-B935-49C8-2E707F93BFBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A33F75F7-8250-B935-49C8-2E707F93BFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A33F75F7-8250-B935-49C8-2E707F93BFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A33F75F7-8250-B935-49C8-2E707F93BFBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																					GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
